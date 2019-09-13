@@ -40,6 +40,12 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+#If you have your own conf.py file, it overrides Read the Doc's default conf.py. 
+# By default, Sphinx expects the master doc to be contents. Read the Docs will set 
+# master doc to index instead (or whatever it is you have specified in your settings). 
+# Try adding this to your conf.py
+master_doc = 'index'
+
 
 # -- Options for HTML output -------------------------------------------------
 
