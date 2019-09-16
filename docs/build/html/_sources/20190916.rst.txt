@@ -1,0 +1,13 @@
+20190916
+########
+
+
+Notes
+=====
+[1]_ 
+
+here is a pdf file :download:`pdf <../QuikPAY(R) Payment Receipt.pdf>`
+
+Reference
+=========
+.. [1] http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#html-metadata
